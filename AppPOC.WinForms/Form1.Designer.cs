@@ -41,9 +41,6 @@ partial class Form1
         this.chkOferta = new KryptonCheckBox();
         this.btnAkcja = new KryptonButton();
         this.lblOpcjeInfo = new KryptonLabel();
-        this.chkStylClassic = new KryptonCheckBox();
-        this.chkStylAccent = new KryptonCheckBox();
-        this.chkStylSoft = new KryptonCheckBox();
         this.tabMain.SuspendLayout();
         this.tabSearch.SuspendLayout();
         this.tabOpcje.SuspendLayout();
@@ -85,9 +82,6 @@ partial class Form1
         this.tabSearch.UseVisualStyleBackColor = true;
 
         // tabOpcje
-        this.tabOpcje.Controls.Add(this.chkStylSoft);
-        this.tabOpcje.Controls.Add(this.chkStylAccent);
-        this.tabOpcje.Controls.Add(this.chkStylClassic);
         this.tabOpcje.Controls.Add(this.lblOpcjeInfo);
         this.tabOpcje.Location = new System.Drawing.Point(4, 29);
         this.tabOpcje.Name = "tabOpcje";
@@ -229,39 +223,6 @@ partial class Form1
         this.lblOpcjeInfo.StateCommon.ShortText.Color1 = System.Drawing.Color.FromArgb(30, 41, 59);
         this.lblOpcjeInfo.StateCommon.ShortText.Font = new System.Drawing.Font("Segoe UI", 11F);
 
-        // chkStylClassic
-        this.chkStylClassic.AutoSize = false;
-        this.chkStylClassic.Location = new System.Drawing.Point(24, 68);
-        this.chkStylClassic.Name = "chkStylClassic";
-        this.chkStylClassic.Size = new System.Drawing.Size(290, 30);
-        this.chkStylClassic.TabIndex = 1;
-        this.chkStylClassic.Text = "Wersja A - klasyczny";
-        this.chkStylClassic.Values.Text = "Wersja A - klasyczny";
-        this.chkStylClassic.StateCommon.ShortText.Color1 = System.Drawing.Color.FromArgb(30, 41, 59);
-        this.chkStylClassic.StateCommon.ShortText.Font = new System.Drawing.Font("Segoe UI", 10.5F, System.Drawing.FontStyle.Regular);
-
-        // chkStylAccent
-        this.chkStylAccent.AutoSize = false;
-        this.chkStylAccent.Location = new System.Drawing.Point(24, 106);
-        this.chkStylAccent.Name = "chkStylAccent";
-        this.chkStylAccent.Size = new System.Drawing.Size(290, 30);
-        this.chkStylAccent.TabIndex = 2;
-        this.chkStylAccent.Text = "Wersja B - akcent";
-        this.chkStylAccent.Values.Text = "Wersja B - akcent";
-        this.chkStylAccent.StateCommon.ShortText.Color1 = System.Drawing.Color.FromArgb(14, 116, 144);
-        this.chkStylAccent.StateCommon.ShortText.Font = new System.Drawing.Font("Segoe UI Semibold", 10.5F, System.Drawing.FontStyle.Bold);
-
-        // chkStylSoft
-        this.chkStylSoft.AutoSize = false;
-        this.chkStylSoft.Location = new System.Drawing.Point(24, 144);
-        this.chkStylSoft.Name = "chkStylSoft";
-        this.chkStylSoft.Size = new System.Drawing.Size(290, 30);
-        this.chkStylSoft.TabIndex = 3;
-        this.chkStylSoft.Text = "Wersja C - subtelny";
-        this.chkStylSoft.Values.Text = "Wersja C - subtelny";
-        this.chkStylSoft.StateCommon.ShortText.Color1 = System.Drawing.Color.FromArgb(100, 116, 139);
-        this.chkStylSoft.StateCommon.ShortText.Font = new System.Drawing.Font("Segoe UI", 10.5F, System.Drawing.FontStyle.Italic);
-
         this.tabMain.ResumeLayout(false);
         this.tabSearch.ResumeLayout(false);
         this.tabSearch.PerformLayout();
@@ -283,7 +244,4 @@ partial class Form1
     private KryptonCheckBox chkOferta;
     private KryptonButton btnAkcja;
     private KryptonLabel lblOpcjeInfo;
-    private KryptonCheckBox chkStylClassic;
-    private KryptonCheckBox chkStylAccent;
-    private KryptonCheckBox chkStylSoft;
 }

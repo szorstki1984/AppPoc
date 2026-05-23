@@ -1,0 +1,22 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# Visual Studio / VS Code local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+*.DotSettings.user
+
+# NuGet local cache and restore artifacts
+*.nupkg
+*.snupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache

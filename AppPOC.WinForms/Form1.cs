@@ -118,9 +118,6 @@ public partial class Form1 : KryptonForm
 
         chkPolisa.StateCommon.ShortText.Color1 = labelColor;
         chkOferta.StateCommon.ShortText.Color1 = labelColor;
-        chkStylClassic.StateCommon.ShortText.Color1 = labelColor;
-        chkStylAccent.StateCommon.ShortText.Color1 = isDark ? Color.FromArgb(138, 180, 248) : Color.FromArgb(14, 116, 144);
-        chkStylSoft.StateCommon.ShortText.Color1 = isDark ? Color.FromArgb(154, 160, 166) : Color.FromArgb(100, 116, 139);
 
         txtNumerPolisy.StateCommon.Back.Color1 = inputBackground;
         txtNumerPolisy.StateCommon.Border.Color1 = inputBorder;
