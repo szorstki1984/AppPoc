@@ -127,7 +127,7 @@ partial class Form1
         // txtNumerPolisy
         this.txtNumerPolisy.Location = new System.Drawing.Point(24, 126);
         this.txtNumerPolisy.Name = "txtNumerPolisy";
-        this.txtNumerPolisy.Size = new System.Drawing.Size(540, 44);
+        this.txtNumerPolisy.Size = new System.Drawing.Size(270, 44);
         this.txtNumerPolisy.StateCommon.Back.Color1 = System.Drawing.Color.FromArgb(255, 255, 255);
         this.txtNumerPolisy.StateCommon.Border.Color1 = System.Drawing.Color.FromArgb(203, 213, 225);
         this.txtNumerPolisy.StateCommon.Border.Color2 = System.Drawing.Color.FromArgb(203, 213, 225);
@@ -145,7 +145,7 @@ partial class Form1
         this.chkPolisa.AutoSize = false;
         this.chkPolisa.Location = new System.Drawing.Point(24, 198);
         this.chkPolisa.Name = "chkPolisa";
-        this.chkPolisa.Size = new System.Drawing.Size(150, 44);
+        this.chkPolisa.Size = new System.Drawing.Size(150, 34);
         this.chkPolisa.TabIndex = 1;
         this.chkPolisa.Text = "Polisa";
         this.chkPolisa.Values.Text = "Polisa";
@@ -156,7 +156,7 @@ partial class Form1
         this.chkOferta.AutoSize = false;
         this.chkOferta.Location = new System.Drawing.Point(164, 198);
         this.chkOferta.Name = "chkOferta";
-        this.chkOferta.Size = new System.Drawing.Size(150, 44);
+        this.chkOferta.Size = new System.Drawing.Size(150, 34);
         this.chkOferta.TabIndex = 2;
         this.chkOferta.Text = "Oferta";
         this.chkOferta.Values.Text = "Oferta";
@@ -233,7 +233,7 @@ partial class Form1
         this.chkStylClassic.AutoSize = false;
         this.chkStylClassic.Location = new System.Drawing.Point(24, 68);
         this.chkStylClassic.Name = "chkStylClassic";
-        this.chkStylClassic.Size = new System.Drawing.Size(290, 34);
+        this.chkStylClassic.Size = new System.Drawing.Size(290, 30);
         this.chkStylClassic.TabIndex = 1;
         this.chkStylClassic.Text = "Wersja A - klasyczny";
         this.chkStylClassic.Values.Text = "Wersja A - klasyczny";
@@ -242,9 +242,9 @@ partial class Form1
 
         // chkStylAccent
         this.chkStylAccent.AutoSize = false;
-        this.chkStylAccent.Location = new System.Drawing.Point(24, 110);
+        this.chkStylAccent.Location = new System.Drawing.Point(24, 106);
         this.chkStylAccent.Name = "chkStylAccent";
-        this.chkStylAccent.Size = new System.Drawing.Size(290, 34);
+        this.chkStylAccent.Size = new System.Drawing.Size(290, 30);
         this.chkStylAccent.TabIndex = 2;
         this.chkStylAccent.Text = "Wersja B - akcent";
         this.chkStylAccent.Values.Text = "Wersja B - akcent";
@@ -253,9 +253,9 @@ partial class Form1
 
         // chkStylSoft
         this.chkStylSoft.AutoSize = false;
-        this.chkStylSoft.Location = new System.Drawing.Point(24, 152);
+        this.chkStylSoft.Location = new System.Drawing.Point(24, 144);
         this.chkStylSoft.Name = "chkStylSoft";
-        this.chkStylSoft.Size = new System.Drawing.Size(290, 34);
+        this.chkStylSoft.Size = new System.Drawing.Size(290, 30);
         this.chkStylSoft.TabIndex = 3;
         this.chkStylSoft.Text = "Wersja C - subtelny";
         this.chkStylSoft.Values.Text = "Wersja C - subtelny";
