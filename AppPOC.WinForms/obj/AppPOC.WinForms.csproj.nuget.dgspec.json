@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\AppPOC\\appPOC.WinForms\\AppPOC.WinForms.csproj": {}
+    "C:\\Repo\\WinAppPoc\\appPOC.WinForms\\AppPOC.WinForms.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\AppPOC\\appPOC.WinForms\\AppPOC.WinForms.csproj": {
+    "C:\\Repo\\WinAppPoc\\appPOC.WinForms\\AppPOC.WinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\AppPOC\\appPOC.WinForms\\AppPOC.WinForms.csproj",
+        "projectUniqueName": "C:\\Repo\\WinAppPoc\\appPOC.WinForms\\AppPOC.WinForms.csproj",
         "projectName": "AppPOC.WinForms",
-        "projectPath": "C:\\Repo\\AppPOC\\appPOC.WinForms\\AppPOC.WinForms.csproj",
+        "projectPath": "C:\\Repo\\WinAppPoc\\appPOC.WinForms\\AppPOC.WinForms.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\AppPOC\\appPOC.WinForms\\obj\\",
+        "outputPath": "C:\\Repo\\WinAppPoc\\appPOC.WinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

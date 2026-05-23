@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppPOC.WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+891638085b028c2b0e2bc812932cb5bbaba01629")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppPOC.WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppPOC.WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
