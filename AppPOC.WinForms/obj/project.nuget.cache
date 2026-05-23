@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5tDosnpYDY=",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\AppPOC\\appPOC.WinForms\\AppPOC.WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\krypton.toolkit\\105.26.4.110\\krypton.toolkit.105.26.4.110.nupkg.sha512"
+  ],
+  "logs": []
+}
